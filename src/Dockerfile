@@ -2,7 +2,6 @@
 # para criar uma imagem da 
 # nossa aplicação.
 
-
 # Aqui dizemos que vamos
 # construir nossa imagem
 # nos baseando em outra já

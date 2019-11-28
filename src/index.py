@@ -1,6 +1,9 @@
 from flask import Flask
 app = Flask(__name__)
 
+# Requisição: http://localhost:5000/
+# Resposta: Tô de pé!
+
 @app.route("/")
 def teste():
     return "Tô de pé!"
